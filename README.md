@@ -1,2 +1,2 @@
 # alfred-releases
-alfred app releases
+alfred app releases multidevices
